@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="wrap_content"
+    android:gravity="center_horizontal" android:orientation="vertical" android:padding="6dp">
+    <TextView android:id="@+id/catIcon" android:layout_width="52dp" android:layout_height="52dp"
+        android:background="@drawable/bg_cat_icon" android:gravity="center" android:textSize="22sp" />
+    <TextView android:id="@+id/catName" android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:layout_marginTop="4dp" android:gravity="center" android:maxLines="2"
+        android:textColor="@color/ex_muted" android:textSize="11sp" />
+</LinearLayout>
