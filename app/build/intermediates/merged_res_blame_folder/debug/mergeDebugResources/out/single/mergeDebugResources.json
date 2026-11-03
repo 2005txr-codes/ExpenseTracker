@@ -1,0 +1,202 @@
+[
+    {
+        "merged": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-debug-39:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-main-41:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-debug-39:\\layout_activity_themes.xml.flat",
+        "source": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-main-41:\\layout\\activity_themes.xml"
+    },
+    {
+        "merged": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-debug-39:\\drawable_bg_back_fab.xml.flat",
+        "source": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-main-41:\\drawable\\bg_back_fab.xml"
+    },
+    {
+        "merged": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-debug-39:\\layout_activity_add.xml.flat",
+        "source": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-main-41:\\layout\\activity_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-debug-39:\\layout_activity_categories.xml.flat",
+        "source": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-main-41:\\layout\\activity_categories.xml"
+    },
+    {
+        "merged": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-debug-39:\\drawable_bg_logo.xml.flat",
+        "source": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-main-41:\\drawable\\bg_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-debug-39:\\layout_bottom_nav.xml.flat",
+        "source": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-main-41:\\layout\\bottom_nav.xml"
+    },
+    {
+        "merged": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-debug-39:\\layout_activity_category_detail.xml.flat",
+        "source": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-main-41:\\layout\\activity_category_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-debug-39:\\layout_item_row.xml.flat",
+        "source": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-main-41:\\layout\\item_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-debug-39:\\drawable_bg_back.xml.flat",
+        "source": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-main-41:\\drawable\\bg_back.xml"
+    },
+    {
+        "merged": "com.example.expensetracker.app-debug-39:/layout_activity_reminder_edit.xml.flat",
+        "source": "com.example.expensetracker.app-main-41:/layout/activity_reminder_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-debug-39:\\layout_activity_menu.xml.flat",
+        "source": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-main-41:\\layout\\activity_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-debug-39:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-main-41:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-debug-39:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-main-41:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-debug-39:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-main-41:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-debug-39:\\drawable_bg_toggle_on.xml.flat",
+        "source": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-main-41:\\drawable\\bg_toggle_on.xml"
+    },
+    {
+        "merged": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-debug-39:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-main-41:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-debug-39:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-main-41:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.expensetracker.app-debug-39:/layout_activity_reminder.xml.flat",
+        "source": "com.example.expensetracker.app-main-41:/layout/activity_reminder.xml"
+    },
+    {
+        "merged": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-debug-39:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-main-41:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-debug-39:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-main-41:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-debug-39:\\layout_activity_allocation.xml.flat",
+        "source": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-main-41:\\layout\\activity_allocation.xml"
+    },
+    {
+        "merged": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-debug-39:\\layout_activity_add_transaction.xml.flat",
+        "source": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-main-41:\\layout\\activity_add_transaction.xml"
+    },
+    {
+        "merged": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-debug-39:\\drawable_bg_card.xml.flat",
+        "source": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-main-41:\\drawable\\bg_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-debug-39:\\drawable_bg_cat_icon.xml.flat",
+        "source": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-main-41:\\drawable\\bg_cat_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-debug-39:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-main-41:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-debug-39:\\layout_header_back.xml.flat",
+        "source": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-main-41:\\layout\\header_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-debug-39:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-main-41:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-debug-39:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-main-41:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-debug-39:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-main-41:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-debug-39:\\drawable_bg_nav.xml.flat",
+        "source": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-main-41:\\drawable\\bg_nav.xml"
+    },
+    {
+        "merged": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-debug-39:\\layout_activity_summary.xml.flat",
+        "source": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-main-41:\\layout\\activity_summary.xml"
+    },
+    {
+        "merged": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-debug-39:\\drawable_bg_icon.xml.flat",
+        "source": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-main-41:\\drawable\\bg_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-debug-39:\\drawable_bg_card_blue.xml.flat",
+        "source": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-main-41:\\drawable\\bg_card_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-debug-39:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-main-41:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-debug-39:\\drawable_bg_input.xml.flat",
+        "source": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-main-41:\\drawable\\bg_input.xml"
+    },
+    {
+        "merged": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-debug-39:\\layout_activity_calendar.xml.flat",
+        "source": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-main-41:\\layout\\activity_calendar.xml"
+    },
+    {
+        "merged": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-debug-39:\\layout_activity_reminder.xml.flat",
+        "source": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-main-41:\\layout\\activity_reminder.xml"
+    },
+    {
+        "merged": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-debug-39:\\drawable_progress_budget.xml.flat",
+        "source": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-main-41:\\drawable\\progress_budget.xml"
+    },
+    {
+        "merged": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-debug-39:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-main-41:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-debug-39:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-main-41:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-debug-39:\\layout_activity_report.xml.flat",
+        "source": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-main-41:\\layout\\activity_report.xml"
+    },
+    {
+        "merged": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-debug-39:\\layout_item_cat.xml.flat",
+        "source": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-main-41:\\layout\\item_cat.xml"
+    },
+    {
+        "merged": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-debug-39:\\layout_activity_welcome.xml.flat",
+        "source": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-main-41:\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-debug-39:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-main-41:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-debug-39:\\drawable_bg_toggle_off.xml.flat",
+        "source": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-main-41:\\drawable\\bg_toggle_off.xml"
+    },
+    {
+        "merged": "com.example.expensetracker.app-debug-39:/drawable_ic_stat_reminder.xml.flat",
+        "source": "com.example.expensetracker.app-main-41:/drawable/ic_stat_reminder.xml"
+    },
+    {
+        "merged": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-debug-39:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-main-41:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-debug-39:\\layout_header_main.xml.flat",
+        "source": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-main-41:\\layout\\header_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-debug-39:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\2005t\\.gradle\\daemon\\9.6.0\\com.example.expensetracker.app-main-41:\\mipmap-hdpi\\ic_launcher_round.webp"
+    }
+]
