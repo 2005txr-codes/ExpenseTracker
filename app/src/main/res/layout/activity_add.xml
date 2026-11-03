@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:orientation="vertical" android:padding="16dp">
+
+    <include layout="@layout/header_back" />
+
+    <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:layout_marginTop="8dp" android:gravity="center_horizontal" android:orientation="vertical">
+        <TextView android:id="@+id/tvCatIcon" android:layout_width="72dp" android:layout_height="72dp"
+            android:background="@drawable/bg_cat_icon" android:gravity="center" android:textSize="32sp" />
+        <TextView android:id="@+id/tvCatName" android:layout_width="wrap_content" android:layout_height="wrap_content"
+            android:layout_marginTop="8dp" android:textSize="18sp" android:textStyle="bold" />
+        <TextView android:id="@+id/tvCatInfo" android:layout_width="wrap_content" android:layout_height="wrap_content"
+            android:layout_marginTop="2dp" android:gravity="center" android:textColor="?attr/exMuted" android:textSize="12sp" />
+    </LinearLayout>
+
+    <TextView android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:layout_marginTop="20dp" android:gravity="center" android:text="AMOUNT"
+        android:textColor="?attr/exMuted" android:textSize="11sp" />
+    <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:gravity="center" android:orientation="horizontal">
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+            android:text="$" android:textColor="?attr/exAccent" android:textSize="32sp" android:textStyle="bold" />
+        <EditText android:id="@+id/etAmount" android:layout_width="wrap_content" android:layout_height="wrap_content"
+            android:background="@null" android:hint="0" android:inputType="numberDecimal"
+            android:minWidth="100dp" android:textColor="?attr/exText" android:textSize="40sp" android:textStyle="bold" />
+    </LinearLayout>
+
+    <View android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1" />
+
+    <EditText android:id="@+id/etNote" style="@style/Input" android:layout_width="match_parent"
+        android:layout_height="wrap_content" android:hint="Add a description..." android:inputType="text" />
+    <Button android:id="@+id/btnDate" style="@style/Btn.Ghost" android:layout_width="match_parent"
+        android:layout_height="wrap_content" android:layout_marginTop="8dp" />
+    <Button android:id="@+id/btnSave" style="@style/Btn" android:layout_width="match_parent"
+        android:layout_height="wrap_content" android:layout_marginTop="8dp" android:text="Save Transaction" />
+</LinearLayout>

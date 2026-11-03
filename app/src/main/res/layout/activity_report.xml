@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:orientation="vertical">
+    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+        android:layout_margin="16dp" android:text="Statistics" android:textSize="24sp" android:textStyle="bold" />
+    <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:layout_marginLeft="16dp" android:layout_marginRight="16dp"
+        android:gravity="center_vertical" android:orientation="horizontal">
+        <Button android:id="@+id/btnPrev" style="@style/Btn.Ghost" android:layout_width="wrap_content"
+            android:layout_height="wrap_content" android:minWidth="56dp" android:text="‹" />
+        <TextView android:id="@+id/tvMonth" android:layout_width="0dp" android:layout_height="wrap_content"
+            android:layout_weight="1" android:gravity="center" android:textSize="18sp" android:textStyle="bold" />
+        <Button android:id="@+id/btnNext" style="@style/Btn.Ghost" android:layout_width="wrap_content"
+            android:layout_height="wrap_content" android:minWidth="56dp" android:text="›" />
+    </LinearLayout>
+    <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:layout_margin="16dp" android:background="@drawable/bg_card"
+        android:orientation="vertical" android:padding="16dp">
+        <TextView android:id="@+id/tvTotals" android:layout_width="match_parent" android:layout_height="wrap_content"
+            android:textColor="@color/ex_muted" android:textSize="14sp" />
+        <com.example.expensetracker.PieChartView android:id="@+id/pie"
+            android:layout_width="match_parent" android:layout_height="180dp" />
+    </LinearLayout>
+    <ListView android:id="@+id/listReport" android:layout_width="match_parent" android:layout_height="0dp"
+        android:layout_weight="1" android:divider="@null" android:dividerHeight="0dp" />
+    <include layout="@layout/bottom_nav" />
+</LinearLayout>

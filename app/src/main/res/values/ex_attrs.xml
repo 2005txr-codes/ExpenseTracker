@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="exBg" format="color" />
+    <attr name="exCard" format="color" />
+    <attr name="exCard2" format="color" />
+    <attr name="exAccent" format="color" />
+    <attr name="exOnAccent" format="color" />
+    <attr name="exCardStart" format="color" />
+    <attr name="exCardEnd" format="color" />
+    <attr name="exText" format="color" />
+    <attr name="exMuted" format="color" />
+    <attr name="exC1" format="color" />
+    <attr name="exC2" format="color" />
+    <attr name="exC3" format="color" />
+    <attr name="exC4" format="color" />
+    <attr name="exC5" format="color" />
+    <attr name="exC6" format="color" />
+</resources>
